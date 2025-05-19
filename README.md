@@ -72,7 +72,7 @@ Contributions are welcome! Please follow the [CONTRIBUTING.md](CONTRIBUTING.md) 
 ---
 
 ## 🔗 Connect
-- **GitHub Repository**: [Insert Link Here]
-- **LinkedIn Post**: [Insert Link Here]
+
+- **LinkedIn Post**: [[Insert Link Here](https://www.linkedin.com/posts/mohamed--suliman_dataanalysis-learningjourney-careergrowth-activity-7329792896960757760-LXZw?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEZSC38BFNDg-bA66bUoH-vegygukaUOIpk)]
 
 Feel free to reach out for collaboration or questions about the project. 
